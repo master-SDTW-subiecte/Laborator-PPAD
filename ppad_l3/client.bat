@@ -1,0 +1,1 @@
+java -cp e:\ppad_workspace\ppad_l3\jones\src;e:\ppad_workspace\ppad_l3\jones\public\compute.jar -Djava.rmi.server.codebase=file:/e:/ppad_workspace/ppad_l3/jones/public/classes/ -Djava.security.policy=client.policy client.ComputePi 127.0.0.1 45

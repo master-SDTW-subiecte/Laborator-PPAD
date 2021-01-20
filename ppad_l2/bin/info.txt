@@ -1,0 +1,3 @@
+# On bin folder:
+java -Djava.security.policy=server/server2/java.policy server.server2.Server
+java -Djava.security.policy=client/java.policy client.Client
